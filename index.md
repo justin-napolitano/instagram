@@ -3,7 +3,7 @@ title =  "Instragram"
 author = "Justin Napolitano"
 tags = ["lifestyle","anxiety"]
 images = ["images/feature-image.png"]
-date = "2024-07-05"
+date = "2024-07-12"
 categories = ["reflection"]
 +++
 
