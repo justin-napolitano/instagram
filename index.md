@@ -10,7 +10,7 @@ categories = ["reflection"]
 
 # Instagram
 
-I cannot help myself, but abuse instagram. I tried... I want to connect with friends... but it is too addicting
+I cannot help myself from abuse instagram. I tried... I want to connect with friends... but it is too addicting
 
 ## Scrolling
 
