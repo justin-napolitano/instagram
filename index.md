@@ -20,6 +20,13 @@ seoSecondaryKeywords:
   - digital habits
   - markdown documentation
 seoOptimized: true
+topicFamily: personal
+topicFamilyConfidence: 0.95
+topicFamilyNotes: >-
+  The post is a text-based personal reflection on Instagram's addictive design and social impact
+  with a focus on personal awareness, wellness, and behavioral alternatives documented in markdown.
+  This matches the 'Personal' family, which includes personal journals, reflections, and lifestyle
+  documentation in markdown, and the example slugs include 'github-instagram'.
 ---
 
 # Instagram Reflection Project: Technical and Practical Overview
@@ -62,3 +69,4 @@ This repository serves as a personal reference to revisit thoughts on social med
 ## Summary
 
 This project is a minimalistic, text-based reflection on Instagram's psychological and social impacts. It is intended as a personal technical and practical reference rather than a software deliverable. The approach emphasizes clear documentation and thematic organization to facilitate future review and extension.
+
