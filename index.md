@@ -1,12 +1,26 @@
 ---
-slug: "github-instagram"
-title: "instagram"
-repo: "justin-napolitano/instagram"
-githubUrl: "https://github.com/justin-napolitano/instagram"
-generatedAt: "2025-11-23T09:09:11.360343Z"
-source: "github-auto"
+slug: github-instagram
+title: 'Instagram Reflection Project: Technical and Practical Insights'
+repo: justin-napolitano/instagram
+githubUrl: https://github.com/justin-napolitano/instagram
+generatedAt: '2025-11-23T09:09:11.360343Z'
+source: github-auto
+summary: >-
+  Text-based personal reflection on Instagram's addictive design, social impact, and healthier
+  substitution strategies using markdown documentation.
+tags:
+  - markdown
+  - social-media
+  - digital-wellness
+  - reflection
+  - instagram
+seoPrimaryKeyword: instagram reflection
+seoSecondaryKeywords:
+  - social media addiction
+  - digital habits
+  - markdown documentation
+seoOptimized: true
 ---
-
 
 # Instagram Reflection Project: Technical and Practical Overview
 
