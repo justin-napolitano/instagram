@@ -1,32 +1,41 @@
 ---
 slug: github-instagram
-title: 'Instagram Reflection Project: Technical and Practical Insights'
+title: 'Instagram Reflection Project: Technical Overview and Insights'
 repo: justin-napolitano/instagram
 githubUrl: https://github.com/justin-napolitano/instagram
 generatedAt: '2025-11-23T09:09:11.360343Z'
 source: github-auto
 summary: >-
-  Text-based personal reflection on Instagram's addictive design, social impact, and healthier
-  substitution strategies using markdown documentation.
+  A structured reflection on Instagram's impact on social behavior and
+  strategies for healthier social media habits.
 tags:
   - markdown
   - social-media
   - digital-wellness
   - reflection
   - instagram
-seoPrimaryKeyword: instagram reflection
+  - digital wellness
+  - social media
+  - static site generators
+  - personal reflection
+seoPrimaryKeyword: instagram reflection project
 seoSecondaryKeywords:
   - social media addiction
-  - digital habits
+  - digital habits management
   - markdown documentation
+  - behavioral alternatives
+  - personal insights
 seoOptimized: true
 topicFamily: personal
 topicFamilyConfidence: 0.95
 topicFamilyNotes: >-
-  The post is a text-based personal reflection on Instagram's addictive design and social impact
-  with a focus on personal awareness, wellness, and behavioral alternatives documented in markdown.
-  This matches the 'Personal' family, which includes personal journals, reflections, and lifestyle
-  documentation in markdown, and the example slugs include 'github-instagram'.
+  The post is a text-based personal reflection on Instagram's addictive design
+  and social impact with a focus on personal awareness, wellness, and behavioral
+  alternatives documented in markdown. This matches the 'Personal' family, which
+  includes personal journals, reflections, and lifestyle documentation in
+  markdown, and the example slugs include 'github-instagram'.
+kind: project
+id: github-instagram
 ---
 
 # Instagram Reflection Project: Technical and Practical Overview
