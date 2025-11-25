@@ -7,8 +7,8 @@ githubUrl: https://github.com/justin-napolitano/instagram
 generatedAt: '2025-11-24T21:35:13.103Z'
 source: github-auto
 summary: >-
-  Explore a personal narrative on Instagram, discussing social connection,
-  addiction, and alternatives like chess and go.
+  Explore a personal narrative on Instagram, discussing social connection, addiction, and
+  alternatives like chess and go.
 tags:
   - markdown
   - social media
@@ -24,8 +24,8 @@ seoSecondaryKeywords:
   - alternative activities
   - future work on reflections
 seoOptimized: true
-topicFamily: null
-topicFamilyConfidence: null
+topicFamily: personal
+topicFamilyConfidence: 0.9
 kind: project
 entryLayout: project
 showInProjects: true
@@ -77,4 +77,5 @@ instagram/
 # Note
 
 This repository is a personal journal-style reflection rather than a software application. Adjust expectations accordingly.
+
 
