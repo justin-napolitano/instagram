@@ -1,14 +1,14 @@
 ---
 slug: github-instagram
 id: github-instagram
-title: Personal Reflection on Instagram Usage and Alternatives
+title: Personal Reflections on Instagram Usage and Alternatives
 repo: justin-napolitano/instagram
 githubUrl: https://github.com/justin-napolitano/instagram
 generatedAt: '2025-11-24T21:35:13.103Z'
 source: github-auto
 summary: >-
-  A documented introspection on Instagram's impact, addiction, and alternative
-  activities like chess and go.
+  Explore a personal narrative on Instagram, discussing social connection,
+  addiction, and alternatives like chess and go.
 tags:
   - markdown
   - social media
@@ -22,7 +22,7 @@ seoSecondaryKeywords:
   - personal narrative
   - markdown documentation
   - alternative activities
-  - future work roadmap
+  - future work on reflections
 seoOptimized: true
 topicFamily: null
 topicFamilyConfidence: null
